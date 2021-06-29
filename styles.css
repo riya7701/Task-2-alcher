@@ -1,0 +1,101 @@
+.navbar-inverse{
+    background-color: transparent !important;
+	 margin-top: 15px;
+	 margin-left: 30px;
+	 margin-right: 30px;
+}
+
+#search {
+   background-color: transparent;
+   color:white; 
+   padding: 6px;
+   margin-top: 0px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  font-size: 17px;
+  border-width: 3px;
+  border-color: white !important;
+  width:600px;
+
+  }
+
+  #sec1{
+  	background-image: url("bg.png");
+  	width: 1519px;
+  height: 603px;
+  display:inline-block;
+  text-align: center;
+
+  }
+  #profile{
+  	margin-left: 120px;
+  }
+
+   #h1{
+    font-family:"popins",sans-serif;
+    font-size: 65px;
+  	font-weight: 1000 !important;
+  color: white;
+  -webkit-text-fill-color: transparent; 
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+#b{
+	height:50px;
+	width: 200px;
+	background-color: #d90166;
+	color: white;
+	align-content: center;
+	border-color: transparent;
+	border-radius: 6px;
+	
+
+}
+
+#text{
+	margin-left:110px; 
+}
+
+#sec2{
+	
+}
+.pic{
+
+	height:200px;
+	width:300px;
+	margin: 15px;
+	border-radius: 8px;
+
+}
+.pic:hover{
+	transform: scale(0.9);
+    
+}
+.main{
+	justify-content: center;
+	display: flex;
+
+}
+#sec3{
+	background-color:#292c30;
+	height:200px;
+	justify-content: center;
+}
+#color{
+	color: white;
+	margin-right: : 20px;
+	margin-left: 30px;
+	
+
+}
+#al{
+	font-family: "gugi";
+	color: white;
+	font-size: 30px;
+}
+.t{
+	margin-left: 17px;
+	font-size: 20px;
+	width:300px;
+}
